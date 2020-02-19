@@ -1,0 +1,2 @@
+https://habr.com/ru/post/353050 - анализ данных
+https://www.kaggle.com/ - датасеты
